@@ -81,12 +81,12 @@
     <Content Include="app\assets\pixabay-logo.svg" />
     <Content Include="app\favicon.ico" />
     <Content Include="app\index.html" />
-    <Content Include="app\inline.09eb415a30eb704eb955.bundle.js" />
-    <Content Include="app\main.ba307284dd8aa45f000e.bundle.js" />
+    <Content Include="app\inline.cc7649a568a582f754fa.bundle.js" />
+    <Content Include="app\main.507545297a669c85a27c.bundle.js" />
     <Content Include="app\polyfills.64c556e1f20627a06705.bundle.js" />
     <Content Include="app\scripts.c52e2436c86bc46aca39.bundle.js" />
     <Content Include="app\styles.9a18cf4c564e918e2d62.bundle.css" />
-    <Content Include="app\vendor.3063f1abaf9ce7a0ff57.bundle.js" />
+    <Content Include="app\vendor.497eebe4e2207bd8a443.bundle.js" />
     <Content Include="assets\AddinIcon.png" />
     <Content Include="assets\Button16x16.png" />
     <Content Include="assets\Button32x32.png" />
