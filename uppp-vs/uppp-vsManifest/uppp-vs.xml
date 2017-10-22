@@ -18,14 +18,14 @@
   <Id>6840ae38-9964-42ce-b92a-060f297338f1</Id>
 
   <!--Version. Updates from the store only get triggered if there is a version change. -->
-  <Version>1.0.0.0</Version>
+  <Version>1.0.0.1</Version>
   <ProviderName>Daniel Kis-Nagy</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
   <!-- The display name of your add-in. Used on the store and various places of the Office UI such as the add-ins dialog. -->
   <DisplayName DefaultValue="UPPP! Images from Pixabay" />
   <Description DefaultValue="Search free images on Pixabay and insert them into your document."/>
   <!-- Icon for your add-in. Used on installation screens and the add-ins dialog. -->
-  <IconUrl DefaultValue="~remoteAppUrl/assets/Button32x32.png" />
+  <IconUrl DefaultValue="~remoteAppUrl/assets/Button-32x32.png" />
 
   <SupportUrl DefaultValue="~remoteAppUrl/assets/help.html" />
   <!-- Domains that will be allowed when navigating. For example, if you use ShowTaskpane and then have an href link, navigation will only be allowed if the domain is on this list. -->
@@ -176,9 +176,9 @@
     <!-- You can use resources across hosts and form factors. -->
     <Resources>
       <bt:Images>
-        <bt:Image id="Uppp.tpicon_16x16" DefaultValue="~remoteAppUrl/assets/Button16x16.png" />
-        <bt:Image id="Uppp.tpicon_32x32" DefaultValue="~remoteAppUrl/assets/Button32x32.png" />
-        <bt:Image id="Uppp.tpicon_80x80" DefaultValue="~remoteAppUrl/assets/Button80x80.png" />
+        <bt:Image id="Uppp.tpicon_16x16" DefaultValue="~remoteAppUrl/assets/Button-16x16.png" />
+        <bt:Image id="Uppp.tpicon_32x32" DefaultValue="~remoteAppUrl/assets/Button-32x32.png" />
+        <bt:Image id="Uppp.tpicon_80x80" DefaultValue="~remoteAppUrl/assets/Button-80x80.png" />
       </bt:Images>
       <bt:Urls>
         <bt:Url id="Uppp.Taskpane.Url" DefaultValue="~remoteAppUrl/app/index.html" />
@@ -192,7 +192,7 @@
       </bt:ShortStrings>
       <!-- LongStrings max characters==250. -->
       <bt:LongStrings>
-        <bt:String id="Uppp.TaskpaneButton.Tooltip" DefaultValue="Click to Show the Images from Pixabay Taskpane" />
+        <bt:String id="Uppp.TaskpaneButton.Tooltip" DefaultValue="Click to search free images on Pixabay and insert them into your document." />
         <bt:String id="Uppp.GetStarted.Description" DefaultValue="Thanks for installing UPPP! Go to the Insert tab and click the 'Images from Pixabay' button to get started." />
       </bt:LongStrings>
     </Resources>
