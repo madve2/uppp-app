@@ -22,7 +22,7 @@
   <ProviderName>Daniel Kis-Nagy</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
   <!-- The display name of your add-in. Used on the store and various places of the Office UI such as the add-ins dialog. -->
-  <DisplayName DefaultValue="UPPP! Images from Pixabay" />
+  <DisplayName DefaultValue="Pixabay Images" />
   <Description DefaultValue="Search free images on Pixabay and insert them into your document."/>
   <!-- Icon for your add-in. Used on installation screens and the add-ins dialog. -->
   <IconUrl DefaultValue="~remoteAppUrl/assets/Button-32x32.png" />
@@ -187,13 +187,13 @@
       <!-- ShortStrings max characters==125. -->
       <bt:ShortStrings>
         <bt:String id="Uppp.TaskpaneButton.Label" DefaultValue="Images from Pixabay" />
-        <bt:String id="Uppp.Group1Label" DefaultValue="UPPP!" />
+        <bt:String id="Uppp.Group1Label" DefaultValue="Pixabay Images" />
         <bt:String id="Uppp.GetStarted.Title" DefaultValue="Search free images on Pixabay and insert them into your document" />
       </bt:ShortStrings>
       <!-- LongStrings max characters==250. -->
       <bt:LongStrings>
         <bt:String id="Uppp.TaskpaneButton.Tooltip" DefaultValue="Click to search free images on Pixabay and insert them into your document." />
-        <bt:String id="Uppp.GetStarted.Description" DefaultValue="Thanks for installing UPPP! Go to the Insert tab and click the 'Images from Pixabay' button to get started." />
+        <bt:String id="Uppp.GetStarted.Description" DefaultValue="Thanks for installing Pixabay Images! Go to the Insert tab and click the 'Images from Pixabay' button to get started." />
       </bt:LongStrings>
     </Resources>
   </VersionOverrides>

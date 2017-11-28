@@ -81,8 +81,8 @@
     <Content Include="app\assets\pixabay-logo.svg" />
     <Content Include="app\favicon.ico" />
     <Content Include="app\index.html" />
-    <Content Include="app\inline.ab011431cf007ac58066.bundle.js" />
-    <Content Include="app\main.e1b494f0d044ec0b0470.bundle.js" />
+    <Content Include="app\inline.eed7197039acf977aac0.bundle.js" />
+    <Content Include="app\main.e1a6541fc317c3cad990.bundle.js" />
     <Content Include="app\polyfills.64c556e1f20627a06705.bundle.js" />
     <Content Include="app\scripts.c52e2436c86bc46aca39.bundle.js" />
     <Content Include="app\styles.9a18cf4c564e918e2d62.bundle.css" />
